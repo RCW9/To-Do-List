@@ -1,2 +1,2 @@
-# to-do-list
+# To-Do-List
 To do list created with Django
